@@ -1,0 +1,65 @@
+{
+  "name": "@ahmed757/ngx-treant-js",
+  "version": "1.0.7",
+  "description": "A simple Angular component used as a wrapper for TreantJS with additional functionality.",
+  "author": "Ahmed Alatawi (aalat001@gmail.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AhmedAlatawi/ngx-treant-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AhmedAlatawi/ngx-treant-js/issues"
+  },
+  "homepage": "https://github.com/AhmedAlatawi/ngx-treant-js",
+  "private": false,
+  "keywords": [
+    "angular",
+    "javascript",
+    "typescript",
+    "bootstrap",
+    "treant-js",
+    "jquery",
+    "visualization",
+    "tree",
+    "diagrams",
+    "draws",
+    "charts",
+    "SVG"
+  ],
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "jquery-easing": "0.0.1",
+    "popper": "^1.0.1",
+    "popper.js": "^1.16.1",
+    "treant-js": "^1.0.1",
+    "tslib": "^1.10.0"
+  },
+  "peerDependencies": {
+    "@angular/common": "^9.0.7",
+    "@angular/core": "^9.0.7"
+  },
+  "main": "bundles/ahmed757-ngx-treant-js.umd.js",
+  "module": "fesm5/ahmed757-ngx-treant-js.js",
+  "es2015": "fesm2015/ahmed757-ngx-treant-js.js",
+  "esm5": "esm5/ahmed757-ngx-treant-js.js",
+  "esm2015": "esm2015/ahmed757-ngx-treant-js.js",
+  "fesm5": "fesm5/ahmed757-ngx-treant-js.js",
+  "fesm2015": "fesm2015/ahmed757-ngx-treant-js.js",
+  "typings": "ahmed757-ngx-treant-js.d.ts",
+  "metadata": "ahmed757-ngx-treant-js.metadata.json",
+  "sideEffects": false,
+  "__processed_by_ivy_ngcc__": {
+    "es2015": "11.2.2",
+    "esm2015": "11.2.2",
+    "esm5": "11.2.2",
+    "fesm2015": "11.2.2",
+    "fesm5": "11.2.2",
+    "main": "11.2.2",
+    "module": "11.2.2",
+    "typings": "11.2.2"
+  },
+  "scripts": {
+    "prepublishOnly": "node --eval \"console.error('ERROR: Trying to publish a package that has been compiled by NGCC. This is not allowed.\\nPlease delete and rebuild the package, without compiling with NGCC, before attempting to publish.\\nNote that NGCC may have been run by importing this package into another project that is being built with Ivy enabled.\\n')\" && exit 1"
+  }
+}

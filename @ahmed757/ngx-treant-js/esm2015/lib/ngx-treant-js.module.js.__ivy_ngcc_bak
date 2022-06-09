@@ -1,0 +1,14 @@
+import { __decorate } from "tslib";
+import { NgModule } from '@angular/core';
+import { NgxTreantJsComponent } from './ngx-treant-js.component';
+let NgxTreantJsModule = class NgxTreantJsModule {
+};
+NgxTreantJsModule = __decorate([
+    NgModule({
+        declarations: [NgxTreantJsComponent],
+        imports: [],
+        exports: [NgxTreantJsComponent],
+    })
+], NgxTreantJsModule);
+export { NgxTreantJsModule };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibmd4LXRyZWFudC1qcy5tb2R1bGUuanMiLCJzb3VyY2VSb290Ijoibmc6Ly9AYWhtZWQ3NTcvbmd4LXRyZWFudC1qcy8iLCJzb3VyY2VzIjpbImxpYi9uZ3gtdHJlYW50LWpzLm1vZHVsZS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiO0FBQUEsT0FBTyxFQUFFLFFBQVEsRUFBRSxNQUFNLGVBQWUsQ0FBQztBQUN6QyxPQUFPLEVBQUUsb0JBQW9CLEVBQUUsTUFBTSwyQkFBMkIsQ0FBQztBQU9qRSxJQUFhLGlCQUFpQixHQUE5QixNQUFhLGlCQUFpQjtDQUFHLENBQUE7QUFBcEIsaUJBQWlCO0lBTDdCLFFBQVEsQ0FBQztRQUNOLFlBQVksRUFBRSxDQUFDLG9CQUFvQixDQUFDO1FBQ3BDLE9BQU8sRUFBRSxFQUFFO1FBQ1gsT0FBTyxFQUFFLENBQUMsb0JBQW9CLENBQUM7S0FDbEMsQ0FBQztHQUNXLGlCQUFpQixDQUFHO1NBQXBCLGlCQUFpQiIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCB7IE5nTW9kdWxlIH0gZnJvbSAnQGFuZ3VsYXIvY29yZSc7XG5pbXBvcnQgeyBOZ3hUcmVhbnRKc0NvbXBvbmVudCB9IGZyb20gJy4vbmd4LXRyZWFudC1qcy5jb21wb25lbnQnO1xuXG5ATmdNb2R1bGUoe1xuICAgIGRlY2xhcmF0aW9uczogW05neFRyZWFudEpzQ29tcG9uZW50XSxcbiAgICBpbXBvcnRzOiBbXSxcbiAgICBleHBvcnRzOiBbTmd4VHJlYW50SnNDb21wb25lbnRdLFxufSlcbmV4cG9ydCBjbGFzcyBOZ3hUcmVhbnRKc01vZHVsZSB7fVxuIl19

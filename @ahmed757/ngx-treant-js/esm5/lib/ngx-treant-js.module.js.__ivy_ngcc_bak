@@ -1,0 +1,17 @@
+import { __decorate } from "tslib";
+import { NgModule } from '@angular/core';
+import { NgxTreantJsComponent } from './ngx-treant-js.component';
+var NgxTreantJsModule = /** @class */ (function () {
+    function NgxTreantJsModule() {
+    }
+    NgxTreantJsModule = __decorate([
+        NgModule({
+            declarations: [NgxTreantJsComponent],
+            imports: [],
+            exports: [NgxTreantJsComponent],
+        })
+    ], NgxTreantJsModule);
+    return NgxTreantJsModule;
+}());
+export { NgxTreantJsModule };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibmd4LXRyZWFudC1qcy5tb2R1bGUuanMiLCJzb3VyY2VSb290Ijoibmc6Ly9AYWhtZWQ3NTcvbmd4LXRyZWFudC1qcy8iLCJzb3VyY2VzIjpbImxpYi9uZ3gtdHJlYW50LWpzLm1vZHVsZS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiO0FBQUEsT0FBTyxFQUFFLFFBQVEsRUFBRSxNQUFNLGVBQWUsQ0FBQztBQUN6QyxPQUFPLEVBQUUsb0JBQW9CLEVBQUUsTUFBTSwyQkFBMkIsQ0FBQztBQU9qRTtJQUFBO0lBQWdDLENBQUM7SUFBcEIsaUJBQWlCO1FBTDdCLFFBQVEsQ0FBQztZQUNOLFlBQVksRUFBRSxDQUFDLG9CQUFvQixDQUFDO1lBQ3BDLE9BQU8sRUFBRSxFQUFFO1lBQ1gsT0FBTyxFQUFFLENBQUMsb0JBQW9CLENBQUM7U0FDbEMsQ0FBQztPQUNXLGlCQUFpQixDQUFHO0lBQUQsd0JBQUM7Q0FBQSxBQUFqQyxJQUFpQztTQUFwQixpQkFBaUIiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgeyBOZ01vZHVsZSB9IGZyb20gJ0Bhbmd1bGFyL2NvcmUnO1xuaW1wb3J0IHsgTmd4VHJlYW50SnNDb21wb25lbnQgfSBmcm9tICcuL25neC10cmVhbnQtanMuY29tcG9uZW50JztcblxuQE5nTW9kdWxlKHtcbiAgICBkZWNsYXJhdGlvbnM6IFtOZ3hUcmVhbnRKc0NvbXBvbmVudF0sXG4gICAgaW1wb3J0czogW10sXG4gICAgZXhwb3J0czogW05neFRyZWFudEpzQ29tcG9uZW50XSxcbn0pXG5leHBvcnQgY2xhc3MgTmd4VHJlYW50SnNNb2R1bGUge31cbiJdfQ==

@@ -1,0 +1,6 @@
+/*
+ * Public API Surface of ngx-treant-js
+ */
+export * from './lib/ngx-treant-js.component';
+export * from './lib/ngx-treant-js.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL0BhaG1lZDc1Ny9uZ3gtdHJlYW50LWpzLyIsInNvdXJjZXMiOlsicHVibGljLWFwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7R0FFRztBQUVILGNBQWMsK0JBQStCLENBQUM7QUFDOUMsY0FBYyw0QkFBNEIsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2Ygbmd4LXRyZWFudC1qc1xuICovXG5cbmV4cG9ydCAqIGZyb20gJy4vbGliL25neC10cmVhbnQtanMuY29tcG9uZW50JztcbmV4cG9ydCAqIGZyb20gJy4vbGliL25neC10cmVhbnQtanMubW9kdWxlJztcbiJdfQ==
